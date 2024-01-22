@@ -5,8 +5,6 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/)
 
-<br>
-
 <!--
 # About me
 
@@ -35,10 +33,12 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Languages and Tools
 
+![Powo Github Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
+
 - Backend
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,ts,java,php"/>
+        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,ts,java,php,vite"/>
     </a>
 </p>
 
@@ -67,11 +67,6 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Statistics
 
-<p align="center">
-    <a href="https://github.com/Jul0P">
-        <img alt="Powo Github Langages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10"/> 
-    </a>
-</p>
 <p align="center">
     <a href="https://github.com/Jul0P">
         <img alt="Powo Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10"/>
