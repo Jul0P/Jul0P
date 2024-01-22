@@ -59,7 +59,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Tools
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,discord,bots"/>
+        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,linux,discord,bots"/>
     </a>
 </p>
 
