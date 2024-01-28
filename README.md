@@ -34,7 +34,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 ## Languages and Tools
 
 ![Powo Github Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&layout=compact)
 - Backend
 <p align="left">
     <a href="https://skillicons.dev">
