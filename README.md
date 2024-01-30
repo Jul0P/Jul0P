@@ -45,7 +45,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Frontend
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,md,tailwind"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,md"/>
     </a>
 </p>
 
