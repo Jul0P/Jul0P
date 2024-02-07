@@ -33,7 +33,8 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Project in progress (temporarily in private)
 
-- 
+- Portfolio (one official and one with an atypical design)
+- Website reproduction (training)
 
 ## Languages and Tools
 
