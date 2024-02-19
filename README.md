@@ -57,14 +57,14 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Database
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql"/>
+        <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
     </a>
 </p>
 
 - Tools
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,linux,discord,bots,bash,powershell,linkedin"/>
+        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,idea,linux,discord,bots,bash,powershell,linkedin"/>
     </a>
 </p>
 
