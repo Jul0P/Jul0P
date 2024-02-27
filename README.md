@@ -38,7 +38,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Languages and Tools
 
-![Powo Github Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
+![Jul0P Github Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
 
 - Backend
 <p align="left">
@@ -76,7 +76,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 <p align="center">
     <a href="https://github.com/Jul0P">
-        <img alt="Powo Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10"/>
-        <img alt="Powo GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jul0P&theme=react&border_color=61dafb&border_radius=10"/>
+        <img alt="Jul0P Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10"/>
+        <img alt="Jul0P GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jul0P&theme=react&border_color=61dafb&border_radius=10"/>
     </a>
 </p>
