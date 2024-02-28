@@ -14,8 +14,6 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 - emoji test **test**
 
-- emoji test **test**
-
 - emoji test [test](https://test)
 
 - emoji test **LUA**
