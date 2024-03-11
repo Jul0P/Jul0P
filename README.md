@@ -41,7 +41,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Backend
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,ts,java,php,vite"/>
+        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,ts,java,php,vite,nextjs"/>
     </a>
 </p>
 
