@@ -41,7 +41,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Programming Languages
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,py,cs,java,php,js,ts,bash,powershell"/>
+        <img src="https://skillicons.dev/icons?i=lua,py,cs,java,php,bash,powershell"/>
     </a>
 </p>
 
@@ -62,9 +62,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Tools and Environments
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,idea"/>
-        <br>
-        <img src="https://skillicons.dev/icons?i=linux,bots"/>
+        <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,idea,linux,bots"/>
     </a>
 </p>
 
