@@ -72,9 +72,5 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Statistics
 
-<p align="center">
-    <a href="https://github.com/Jul0P">
-        <img alt="Jul0P Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10"/>
-        <img alt="Jul0P GitHub Contribution" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jul0P&theme=react&border_color=61dafb&border_radius=10"/>
-    </a>
-</p>
+<!-- ![Jul0P Github Statistics](https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10) -->
+![Jul0P Github Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
