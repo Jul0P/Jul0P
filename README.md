@@ -38,33 +38,33 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ![Jul0P Github Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
 
-- Backend
+- Programming Languages
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,java,php"/>
+        <img src="https://skillicons.dev/icons?i=lua,py,cs,java,php,js,ts,bash,powershell"/>
     </a>
 </p>
 
-- Frontend
+- Web Technologies
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs"/>
     </a>
 </p>
 
-- Database
+- Databases
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres"/>
     </a>
 </p>
 
-- Tools
+- Tools and Environments
 <p align="left">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,visualstudio,idea"/>
         <br>
-        <img src="https://skillicons.dev/icons?i=linux,bots,bash,powershell"/>
+        <img src="https://skillicons.dev/icons?i=linux,bots"/>
     </a>
 </p>
 
