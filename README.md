@@ -48,7 +48,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Web Technologies
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nextjs,nodejs"/>
     </a>
 </p>
 
