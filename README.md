@@ -5,30 +5,6 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/)
 
-<!--
-# About me
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br>
-
-- emoji test **test**
-
-- emoji test [test](https://test)
-
-- emoji test **LUA**
-
-- emoji test **test@gmail.com**
-
-- emoji test [test](https://test)
-
-- emoji test **test**
-
-- emoji test **test**
-
-<br>
--->
-
 ## Project in progress (temporarily in private)
 
 - Portfolio (one official and one with an atypical design)
@@ -70,5 +46,4 @@ I am a developer passionate about the world of code for years. I am gradually bu
 
 ## Statistics
 
-<!-- ![Jul0P Github Statistics](https://github-readme-stats.vercel.app/api?username=Jul0P&show_icons=true&theme=react&border_color=61dafb&border_radius=10) -->
 ![Jul0P Github Contribution](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jul0P&theme=react&border_color=61dafb&border_radius=10)
