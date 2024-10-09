@@ -31,7 +31,7 @@ I am a developer passionate about the world of code for years. I am gradually bu
 - Databases
 <p align="left">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres"/>
+        <img src="https://skillicons.dev/icons?i=mysql,firebase,postgres,mongodb"/>
     </a>
 </p>
 
