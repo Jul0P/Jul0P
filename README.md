@@ -32,7 +32,7 @@ I am a passionate developer, actively exploring the world of coding for several 
     <tr>
         <td align="right">Programming Languages</td>
         <td>
-            <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,lua,regex" />
+            <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,py,lua,regex" />
         </td>
     </tr>
     <tr>
