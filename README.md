@@ -32,7 +32,7 @@ I am a passionate developer, actively exploring the world of coding for several 
     <tr>
         <td align="right">Programming Languages</td>
         <td>
-            <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,py,lua,regex" />
+            <img src="https://skillicons.dev/icons?i=cs,cpp,java,kotlin,py,lua" />
         </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ I am a passionate developer, actively exploring the world of coding for several 
     <tr>
         <td align="right">Development Tools</td>
         <td>
-            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,androidstudio,github,githubactions,git,docker" />
+            <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,androidstudio,github,git,docker" />
         </td>
     </tr>
     <tr>
