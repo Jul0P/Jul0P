@@ -38,7 +38,7 @@ I am a passionate developer, actively exploring the world of coding for several 
     <tr>
         <td align="right">Web Technologies</td>
         <td>
-            <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,jquery,nodejs,php,symfony,wordpress" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,nestjs,express,jquery,nodejs,php,symfony,wordpress" />
         </td>
     </tr>
     <tr>
